@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    background-color: #2278fc;
+    padding: 30px 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-logo {
+    margin-bottom: 10px;
+
+}
+
+.lang-button  {
+    border: none;
+    background: none;
+    color: white;
+    padding: 10px 0;
+}
+.lang-button img{
+    width: 15px;
+}
+
+.expo {
+    background-image: url("../images/bgc.png");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding: 50px 25px 25px;
+    text-align: center;
+
+}
+.expo h1{
+    font-size: xxx-large;
+    margin-bottom: 30px;
+}
+h1,.expo-text,.expo-block{
+    text-align: center;
+}
+.expo-text{
+    margin-bottom: 30px;
+}
+.expo-block{
+    padding: 30px 0;
+ }
+
+.blue{
+    background-color:#2278fc;
+}
+.yellow{
+    background-color: #fec41d;
+
+}
+.red{
+    background-color: red;
+}
+.cyan{
+    background-color: darkcyan;
+}
+.expo-block a{
+    color: white;
+    font-size: small;
+}
+.calendar{
+    margin-bottom: 15px;
+    font-size: large;
+}
+
+
+
